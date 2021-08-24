@@ -272,7 +272,7 @@ body {
 .modal-close:focus {
   fill: var(--accent-color);
 }
-.form-title {
+.form-message {
   display: flex;
   justify-content: center;
 
@@ -281,7 +281,6 @@ body {
   font-weight: bold;
   font-size: 20px;
   line-height: 1.17;
-  align-items: center;
   letter-spacing: 0.03em;
 }
 .form-part {
